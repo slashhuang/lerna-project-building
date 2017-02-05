@@ -1,6 +1,6 @@
 # lerna-project-building
 
-# lerna是一个多库协作的发布工具
+> lerna是一个多库协作的发布工具
 
 ## 使用
 ```bash
