@@ -9,6 +9,12 @@
     cd yourRepo
     lerna init
 ```
+## checkLog
+
+```bash
+    # if you are in china,you will see the following repo of vesion 0.0.1 has published
+    cnpm search first-test-for-lerna
+```
 
 ## links
 
